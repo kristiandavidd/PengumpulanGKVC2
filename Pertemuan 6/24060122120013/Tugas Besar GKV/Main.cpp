@@ -2,9 +2,9 @@
  * File             : Main.cpp
  * Deskripsi        : Tugas Besar Submarine Game 
  * Anggota Kelompok : Rania                           24060122120013
-		              Miriam Stefani Abigail Hutapea  24060122130051
-                      Nadiva Aulia Inaya			  24060122130093
-                      Demina Ayunda Chesara			  24060122140149
+		      Miriam Stefani Abigail Hutapea  24060122130051
+                      Nadiva Aulia Inaya	      24060122130093
+                      Demina Ayunda Chesara	      24060122140149
 **/
 #include<windows.h>
 #include <GL/glut.h>
