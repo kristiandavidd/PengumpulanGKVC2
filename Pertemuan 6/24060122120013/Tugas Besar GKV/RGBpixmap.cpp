@@ -2,20 +2,16 @@
  * File             : RGBpixmap.cpp
  * Deskripsi        : Tugas Besar Submarine Game 
  * Anggota Kelompok : Rania                          24060122120013
-		              Miriam Stefani Abigail Hutapea 24060122130051
-                      Nadiva Aulia Inaya			 24060122130093
-                      Demina Ayunda Chesara			 24060122140149
+		      Miriam Stefani Abigail Hutapea 24060122130051
+                      Nadiva Aulia Inaya	     24060122130093
+                      Demina Ayunda Chesara	     24060122140149
 **/
 
 #include <fstream>
 #include <iostream>
 #include <GL/glut.h>
-
-
 #define checkImageWidth 512
 #define checkImageHeight 512
-
-
 
 using namespace std;
 
